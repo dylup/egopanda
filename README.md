@@ -7,8 +7,6 @@ CSC-842 Cycle1
 - Language: C
 - Scope: Offensive Security/Penetration Testing
 
-
-## Description
 Linux x86-64 based shell/remote administration tool. This project is intended to be used after successful exploitation of a host during a penetration test/offensive security assesment. Kind of a pet project at the moment. 
 
 ## Capabilities
